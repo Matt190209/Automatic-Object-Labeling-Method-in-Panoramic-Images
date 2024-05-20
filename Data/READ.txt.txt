@@ -1,0 +1,3 @@
+Here in this folder you can add your panoramic images from your own database to work in an orderly manner.
+
+You also have this python script where you can generate a cube with your panoramic images to prevent them from overlapping and your machine learning model is able to interpret them correctly

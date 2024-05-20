@@ -1,0 +1,10 @@
+Instructions for Working with Panoramic Images:
+
+In this folder, you can add your panoramic images from your own database to work in an orderly manner. Additionally, a Python script is provided that will allow you to generate a cube with your panoramic images. This will prevent them from overlapping and help your machine learning model interpret them correctly.
+
+Steps to follow
+Add Panoramic Images:
+
+Place your panoramic images in this folder. Make sure they are in the correct format (for example, .jpg or .png).
+
+You also have this python script where you can generate a cube with your panoramic images to prevent them from overlapping and your machine learning model is able to interpret them correctly

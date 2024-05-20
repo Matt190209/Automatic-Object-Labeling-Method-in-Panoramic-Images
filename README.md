@@ -15,6 +15,10 @@ Nuestro método de etiquetado automático de objetos en imágenes panorámicas u
   
 - **Proceso de Entrenamiento:** Utiliza modelos reconocidos como YOLOv8 y Fast R-CNN para el entrenamiento y ajuste de los algoritmos.
 
+## Diagrama de Bloques del Proyecto
+
+![Diagrama de Bloques PF (2)](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/7a9c882e-7ba8-4d84-b6f4-b5f2086a92f6)
+
 ## Resultados del Método con YOLOv8
 
 ![Captura de pantalla YOLOv8](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/892a85c8-7401-432e-b507-a6997018904b)

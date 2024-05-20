@@ -1,1 +1,48 @@
-Here in this folder are contained both the YOLOv8 model for labeling normal and panoramic images and the Fast R-CNN model
+Image Detection Models
+
+In this folder there are two image detection models:
+
+YOLOv8 model: To label normal and panoramic images.
+Fast R-CNN Model: For object detection and classification.
+
+Model Description
+
+YOLOv8:
+
+This model is used to label both normal and panoramic images.
+YOLOv8 is known for its speed and accuracy in object detection.
+
+Fast R-CNN:
+
+Used for detection and classification of objects in images.
+Fast R-CNN offers improved accuracy and is suitable for applications that require detailed analysis of images.
+
+Instructions for use
+
+YOLOv8
+Environment Preparation:
+
+Make sure you have the necessary dependencies installed. You can install the dependencies using:
+
+pip install -r requirements_yolov8.txt
+
+Make sure your images are organized in the appropriate folders.
+
+Training and Evaluation:
+
+Run the training script to train the model with your images.
+Use the evaluation script to test the accuracy of the model with your validation data.
+
+Fast R-CNN
+Environment Preparation:
+
+Make sure you have the necessary dependencies installed. You can install the dependencies using:
+
+pip install -r requirements_fastrcnn.txt
+
+Organize your images and annotations in the folders specified in the script.
+
+Training and Evaluation:
+
+Run the training script to train the model with your images and annotations.
+Use the evaluation script to test the accuracy of the model with your validation data.

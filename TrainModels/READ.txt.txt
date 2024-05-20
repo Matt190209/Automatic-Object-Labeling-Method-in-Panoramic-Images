@@ -1,0 +1,1 @@
+Here in this folder are contained both the YOLOv8 model for labeling normal and panoramic images and the Fast R-CNN model

@@ -7,7 +7,7 @@ Our method for automatically labeling objects in panoramic images leverages adva
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/bd8685db-3a83-4338-94d6-e9882fe6ca88)
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/0af60eb7-4c78-4b57-9795-a8aff55ffb78)
 
-Photos used in this project are sourced from [SpyroSoft](https://spyro-soft.com/).
+This photograph used in the readme of this project comes from [SpyroSoft](https://spyro-soft.com/).
 
 ## Main Features
 

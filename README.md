@@ -7,7 +7,7 @@ Our method for automatically labeling objects in panoramic images leverages adva
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/bd8685db-3a83-4338-94d6-e9882fe6ca88)
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/0af60eb7-4c78-4b57-9795-a8aff55ffb78)
 
-Photos taken from: https://spyro-soft.com/
+Photos used in this project are sourced from [SpyroSoft](https://spyro-soft.com/).
 
 ## Main Features
 
@@ -42,11 +42,11 @@ Here you can add a description of the results obtained using Fast R-CNN.
 
 The project is structured as follows:
 
-- **Dataset:** Contains a dataset of previously labeled images, designed for retraining already pretrained models. Additionally, it provides the ability to enter revised data, allowing you to continue improving model learning and increasing its accuracy over time.
-- **Data:** It is the destination folder where you should add the panoramic images to use
-- **TrainModels:** Contains the two different Machine Learning methods for labeling panoramic images.
-- **Requirements_fast.txt:** Requirements file with the dependencies of the Fast R-CNN code
-- **Requirements_yolo.txt:** Requirements file with the dependencies of the Yolo_V8 code
+- **Dataset:** Contains a collection of pre-labeled images intended for retraining models. It also allows for the input of updated data, enabling continuous improvement and increased accuracy of the models over time.
+- **Data:** This folder is the designated location for adding the panoramic images to be used in the project.
+- **TrainModels:** Includes the implementation of two distinct machine learning methods for labeling panoramic images: YOLOv8 and Fast R-CNN.
+- **requirements_fast.txt:** Lists the dependencies required for running the Fast R-CNN code.
+- **requirements_yolo.txt:** Lists the dependencies required for running the YOLOv8 code.
 
 ## Installation and Use
 
@@ -70,10 +70,10 @@ If you want to contribute to this project, follow these steps:
 4. Push to the branch: git push origin new-feature.
 5. Send a pull request.
 
-## Créditos
-Este proyecto fue desarrollado por Robinson Luis Campo Charris, Matthieu Navarro Chamucero y Luis Alejandro Vallejo Morales.
+## Image Credits
 
- 
+- Photos taken from: [SpyroSoft](https://spyro-soft.com/)
+- Database taken from: [Mappillary]([https://spyro-soft.com/](https://www.mapillary.com/dataset/places))
 
-
-
+## Credits
+This project was developed by Robinson Luis Campo Charris, Matthieu Navarro Chamucero and Luis Alejandro Vallejo Morales.

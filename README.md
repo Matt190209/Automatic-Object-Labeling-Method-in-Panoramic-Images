@@ -50,7 +50,7 @@ The project is structured as follows:
 
 - **Dataset:** Contains a collection of pre-labeled images intended for retraining models. It also allows for the input of updated data, enabling continuous improvement and increased accuracy of the models over time.
 - **Data:** This folder is the designated location for adding the panoramic images to be used in the project.
-- **TrainModels:** Includes the implementation of two distinct machine learning methods for labeling panoramic images: YOLOv8 and Fast R-CNN.
+- **TrainModels-Inferences:** Includes the implementation of two distinct machine learning methods for labeling panoramic images: YOLOv8 and Fast R-CNN.
 - **requirements_fast.txt:** Lists the dependencies required for running the Fast R-CNN code.
 - **requirements_yolo.txt:** Lists the dependencies required for running the YOLOv8 code.
 

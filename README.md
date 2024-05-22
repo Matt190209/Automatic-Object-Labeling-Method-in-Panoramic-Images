@@ -1,28 +1,34 @@
 # Automatic-Object-Labeling-Method-in-Panoramic-Images:
 
-Our method for automatically labeling objects in panoramic images uses advanced computer vision techniques to classify objects in urban and road environments, minimizing human intervention and streamlining image analysis.
+## Project Overview
+
+Our method for automatically labeling objects in panoramic images leverages advanced computer vision techniques to classify objects in urban and road environments. By minimizing human intervention, we streamline the image analysis process, making it more efficient and scalable. This project is built using PyTorch, a powerful open-source machine learning library, enabling us to implement state-of-the-art models and achieve high accuracy in object detection and classification tasks.
 
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/bd8685db-3a83-4338-94d6-e9882fe6ca88)
--
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/0af60eb7-4c78-4b57-9795-a8aff55ffb78)
+
+Photos taken from: https://spyro-soft.com/
 
 ## Main Features
 
-- **Minimization of Human Intervention:** Automates the labeling of objects in panoramic images, reducing the need for manual intervention.
+- **Automated Labeling:** Significantly reduces the need for manual intervention by automating the labeling of objects in panoramic images, enhancing productivity and consistency.
   
-- **Advanced Computer Vision Techniques:** Uses techniques such as transfer learning and fine tuning to accurately classify objects.
+- **State-of-the-Art Computer Vision:** Implements advanced techniques such as transfer learning and fine-tuning to achieve high accuracy in object classification.
   
-- **Efficiency and Precision:** Seeks to optimize efficiency and precision in the identification of objects in urban and traffic environments.
+- **High Efficiency and Precision:** Focuses on optimizing both efficiency and precision in detecting and identifying objects within urban and traffic settings, ensuring reliable performance.
   
-- **Training Process:** Uses recognized models such as YOLOv8 and Fast R-CNN for training and tuning the algorithms.
+- **Robust Training Framework:** Utilizes renowned models like YOLOv8 and Fast R-CNN, leveraging their strengths for comprehensive training and fine-tuning of the detection algorithms.
 
 ## Project Block Diagram
+
+Certainly! Here is a project block diagram for an automated object labeling system using YOLOv8 and Fast R-CNN with PyTorch:
 
 ![Diagrama de Bloques PF (2)](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/7a9c882e-7ba8-4d84-b6f4-b5f2086a92f6)
 
 ## Method Results with YOLOv8
 
-![Captura de pantalla YOLOv8](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/892a85c8-7401-432e-b507-a6997018904b)
+![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/4814aea8-66b6-4799-82e9-4b2265a9b281)
+![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/bafee9dc-867a-43da-9166-ee476b4eff89)
 
 Here you can add a description of the results obtained using YOLOv8.
 

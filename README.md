@@ -37,7 +37,13 @@ Here you can add a description of the results obtained using YOLOv8.
 ![prediction_-_17MSu3kb40j3W1_2UU9A](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/a6980a3f-483c-430f-8ffe-f4e5ff645971)
 ![prediction_0A4LsIvFoqbtrfF7vgt1hA](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/78235737-c8ee-4c1b-bd26-01ae59bd4437)
 
-Here you can add a description of the results obtained using Fast R-CNN.
+Once the automatic object labeling method is implemented and trained using Fast R-CNN, it is crucial to conduct extensive testing to evaluate its performance and accuracy. These tests are divided into two main categories: unit tests and comprehensive tests, which allow the model to be evaluated both at the level of individual components and as a whole.
+
+Unit tests are run in shorter training cycles and on a small data set. This approach gives us the opportunity to carefully analyze how the model interprets and processes the data, which is essential for improving the code and understanding the results obtained. On the other hand, end-to-end tests are performed on larger data sets and across multiple training epochs. Here, the goal is to subject the model to a variety of scenarios, from ideal cases to challenging situations, to evaluate its ability to detect and label various objects in urban and road environments.
+
+During these tests, it is common to observe some uncertainty at the beginning of the inference process by the Fast R-CNN model. This uncertainty can be attributed to the presence of overfitting, which arises when the model fits too closely to the training data, which can limit its ability to correctly generalize to new instances. To address this situation, it is essential to consider strategies such as model retraining, hyperparameter tuning, and improving the quality and quantity of training data. These actions allow optimizing the performance of the model and improving its generalization capacity.
+
+Despite being an experimental method, the combination of Fast R-CNN with some reinforcement learning techniques has proven to be highly effective in generating predictions and labeling of objects in minimal time. With continued advancement in data collection and algorithm development, the performance of these models is expected to improve significantly in the future. It is essential to continue exploring new techniques and approaches to continue advancing in the field of automatic labeling of objects in images.
 
 ## Project Structure
 

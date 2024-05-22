@@ -95,8 +95,8 @@ def combine_sides(base_filename, input_dir, output_dir):
     cubemap_img.save(os.path.join(output_dir, f"{base_filename}_cubemap.jpg"), quality=85)
 
 if __name__ == "__main__":
-    panorama_image_dir = "root\\to\\your\\panoramic\\images" 
-    output_dir = "root\\to\\your\\output\\dir"
+    panorama_image_dir = "path/to/panoramic/images" 
+    output_dir = "path/to/output/dir"
     
     for filename in glob.glob(os.path.join(panorama_image_dir, '*.jpg')):
         startTime = datetime.now()

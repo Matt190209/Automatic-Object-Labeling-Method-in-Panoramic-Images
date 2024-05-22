@@ -35,7 +35,7 @@ Here you can add a description of the results obtained using YOLOv8.
 ## Method Results with Fast R-CNN
 
 ![prediction_-_17MSu3kb40j3W1_2UU9A](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/a6980a3f-483c-430f-8ffe-f4e5ff645971)
-![prediction_-0bQDIbfa2ZXpUTnTuVjfQ](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/46d69d9c-a4fd-45c4-a8ad-38276f28054f)
+![prediction_0A4LsIvFoqbtrfF7vgt1hA](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/78235737-c8ee-4c1b-bd26-01ae59bd4437)
 
 Here you can add a description of the results obtained using Fast R-CNN.
 

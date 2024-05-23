@@ -32,6 +32,8 @@ Certainly! Here is a project block diagram for an automated object labeling syst
 
 Here you can add a description of the results obtained using YOLOv8.
 
+When looking at the results of the model retrainings we noticed that there was a noticeable improvement when adding the labeled images to the datasets and increasing their size and the quality of the retrainings, and consequently the quality of the inferences improved, i.e. the labeling method automatically improved more and more. This can be seen in the TrainModel-Inferences folders.
+
 ## Method Results with Fast R-CNN
 
 ![prediction_-_17MSu3kb40j3W1_2UU9A](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/a6980a3f-483c-430f-8ffe-f4e5ff645971)

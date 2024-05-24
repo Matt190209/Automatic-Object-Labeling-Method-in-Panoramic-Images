@@ -30,7 +30,7 @@ Certainly! Here is a project block diagram for an automated object labeling syst
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/f961108b-3044-426c-b866-447e5a11034f)
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/11faeeff-f0e2-4ea7-a2f4-c212ed282089)
 
-Al analizar los resultados de los reentrenamientos del modelo, hemos observado una mejora significativa al incorporar imágenes etiquetadas en los conjuntos de datos, así como al aumentar tanto su tamaño como su calidad. Esta mejora se refleja directamente en la calidad de las inferencias, lo que indica que nuestro método de etiquetado automático está mejorando progresivamente. Estos avances se pueden apreciar claramente al examinar las carpetas de 'TrainModel-Inferences
+By analyzing the results of the model retraining, we have seen a significant improvement by incorporating labeled images into the datasets, as well as by increasing both their size and quality. This improvement is directly reflected in the quality of inferences, indicating that our automatic labeling method is progressively improving. These developments can be clearly seen when examining the 'TrainModel-Inferences' folders.
 
 ## Method Results with Fast R-CNN
 

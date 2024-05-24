@@ -28,7 +28,7 @@ Certainly! Here is a project block diagram for an automated object labeling syst
 ## Method Results with YOLOv8
 
 ![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/f961108b-3044-426c-b866-447e5a11034f)
-![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/f79e0849-7129-4bfa-957c-1a740d8e4aaa)
+![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/11faeeff-f0e2-4ea7-a2f4-c212ed282089)
 
 Here you can add a description of the results obtained using YOLOv8.
 
@@ -65,9 +65,11 @@ git clone https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Pano
 pip install -r requirements_fast/yolo.txt
 
 4. Run the code:
-python algo.py
+python (Fast/Yolo).py
 
-5. Review the generated labels and if necessary, re-execute the code modifying the hyperparameters
+It depends on the model you want to specialize in.
+
+6. Review the generated labels and if necessary, re-execute the code modifying the hyperparameters
 
 ## Contribution
 If you want to contribute to this project, follow these steps:
@@ -85,3 +87,7 @@ If you want to contribute to this project, follow these steps:
 
 ## Credits
 This project was developed by Robinson Luis Campo Charris, Matthieu Navarro Chamucero and Luis Alejandro Vallejo Morales.
+
+**Adviser:**
+
+PhD. Juan Carlos Velez Diaz

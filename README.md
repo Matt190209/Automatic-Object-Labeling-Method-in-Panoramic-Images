@@ -27,8 +27,8 @@ Certainly! Here is a project block diagram for an automated object labeling syst
 
 ## Method Results with YOLOv8
 
-![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/4814aea8-66b6-4799-82e9-4b2265a9b281)
-![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/bafee9dc-867a-43da-9166-ee476b4eff89)
+![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/f961108b-3044-426c-b866-447e5a11034f)
+![image](https://github.com/Matt190209/Automatic-Object-Labeling-Method-in-Panoramic-Images/assets/143963923/f79e0849-7129-4bfa-957c-1a740d8e4aaa)
 
 Here you can add a description of the results obtained using YOLOv8.
 

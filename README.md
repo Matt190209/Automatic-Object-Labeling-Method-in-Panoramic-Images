@@ -86,6 +86,9 @@ If you want to contribute to this project, follow these steps:
 - Database taken from: [Mappillary]([https://spyro-soft.com/](https://www.mapillary.com/dataset/places))
 
 ## Credits
+
+**Project Members:**
+
 This project was developed by Robinson Luis Campo Charris, Matthieu Navarro Chamucero and Luis Alejandro Vallejo Morales.
 
 **Adviser:**
